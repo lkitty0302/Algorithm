@@ -1,3 +1,12 @@
+# 첫번째 제출 : C++로 제출해서 컴파일 에러
+# 두번째 제출 : 처음 주어진 2차원 배열에서 인구 이동이 일어나는 그룹의 갯수를 출력하는 문제로 잘못 접근해서 틀렸습니다
+# 3번째 제출 : 시간초과
+# 4번째 제출 : pypy3는 정답..?
+
+#접근 방법
+#BFS로 i,j (0 <= i, j < n)구간부터 열수 있는 모든 공간을 탐색한다
+#열 수 있는 모든 공간을 탐색한 후 
+
 import sys
 from collections import deque
 
@@ -46,11 +55,11 @@ while True:
                 if  len(arrCnt) > 1:
                     flag = True
                     sum //= len(arrCnt)
-                    print(sum)
                     for x, y in arrCnt:
                         arr[x][y] = sum
     if flag == True:
         cnt += 1
     else:
         break
+
 print(cnt)
