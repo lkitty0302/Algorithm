@@ -1,6 +1,13 @@
+# 접근 방법
+# 음의 간선이 없고 최단 거리를 구하는 문제이므로 다익스트라로 해결
+# 정점(v1, v2)를 반드시 방문해야 하기 때문에
+# 1. 시작지점 - v1 - v2 - 도착
+# 2. 시작지점 - v2 - v1 - 도찰
+# 위 두가지 경우 중 짧은 거리를 정답으로 출력
+
 import heapq
 import sys
-#python에서 반복문으로 input받을 때 많은 시간이 걸리기 때문에 아래 코드로 input시간 단축
+# python에서 반복문으로 input받을 때 많은 시간이 걸리기 때문에 아래 코드로 input시간 단축
 input = sys.stdin.readline
 
 def dijkstra(st, end):
