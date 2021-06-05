@@ -34,8 +34,10 @@ for i in bag:
         
         heapq.heappush(mw, (-tv, tm))
 
-    maxv, maxw = heapq.heappop(mw)
+    
 
-    result -= maxv
+    if len(mw) > 0:
+        maxv, maxw = heapq.heappop(mw)
+        result -= maxv
 
 print(result)

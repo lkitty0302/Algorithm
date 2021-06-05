@@ -5,14 +5,13 @@ input = sys.stdin.readline
 n, d, k, c = map(int, input().split())
 
 arr = [int(input()) for _ in range(n)]
-
-check = [0 for _ in range(31)]
+check = [0 for _ in range(3001)]
 
 result = 0
 left = 0
 right = 0
-s = set()
 cnt = 1
+s = set()
 
 s.add(arr[left])
 check[arr[left]] += 1
@@ -42,9 +41,3 @@ while True:
         if left == 0 : break
 
 print(result)
-
-    
-
-
-
-

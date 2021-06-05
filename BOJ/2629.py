@@ -9,7 +9,6 @@ arrn = list(map(int, input().split()))
 m = int(input())
 arrm = list(map(int, input().split()))
 
-# 먼저 
 dp = [[0 for _ in range(15001)] for _ in range(31)]
 
 dp[0][0] = 1
@@ -21,11 +20,11 @@ for x in range(1, n):
 
             dp[x][y] = 1
 
-            if 0 <= y+arrn[x] < 15001:
-                dp[x][y+arrn[x]] = 1
+            if 0 <= y + arrn[x] < 15001:
+                dp[x][y + arrn[x]] = 1
 
-            if 0 <= abs(y-arrn[x]) < 15001:
-                dp[x][abs(y-arrn[x])] = 1
+            if 0 <= abs(y - arrn[x]) < 15001:
+                dp[x][abs(y - arrn[x])] = 1
 
 for i in arrm:
     if i > 15000:

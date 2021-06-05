@@ -1,5 +1,7 @@
 # strip([char]), lstrip([char]), rstrip([char]) : 지정한 char값 제거
 # strip : 양쪽, lstrip : 왼쪽, rstrip : 오른쪽
+# print(" ",end = '\n') : 기본형
+# end = '' : print 끝 줄바꿈을 하지 않겠다는 의미
 
 from collections import deque
 import heapq
@@ -30,6 +32,7 @@ for i in range(T):
         if j == 'R':
             flag = not(flag)
         else:
+            #밖에서 q의 길이 체크를 하면 큐가 비어있는 상태에서 R연산시 error출력
             if len(q) == 0:
                 result = False
                 break
@@ -40,9 +43,7 @@ for i in range(T):
                 q.popleft()
     # [1,2,3,4]
     # 정답 출력
-    # print(" ",end = '\n') : 기본형
-    # end = '' : print 끝 줄바꿈을 하지 않겠다는 의미
-
+   
     if result:
         print("[", end = '')
         for i in range(len(q)):

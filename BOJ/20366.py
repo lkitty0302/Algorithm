@@ -10,16 +10,11 @@ arr.sort()
 result = sys.maxsize
 
 for i in range(0, n - 3):
-    for j in range(i + 3, n-1):
+    for j in range(i + 3, n):
         left = i + 1
         right = j - 1
         
-        #0이면 더이상 탐색할 필요 없음
-        if result == 0:
-            break
-
-        
-        while left <= right:
+        while left < right:
             snow1 = arr[i] + arr[j]
             snow2 = arr[left] + arr[right]
 
@@ -31,6 +26,3 @@ for i in range(0, n - 3):
                 right -= 1
 
 print(result)
-
-    
-
