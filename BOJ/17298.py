@@ -16,8 +16,4 @@ for i in range(1, n):
     
     st.append((arr[i], i))
 
-# while len(st) != 0:
-#     t, idx = st.pop()
-#     result[idx] = t
-
 print(*result)

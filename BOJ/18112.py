@@ -47,3 +47,4 @@ while q:
     # 현재수 - 1 
     if number > 0:
         q.append((number - 1, cnt + 1))
+

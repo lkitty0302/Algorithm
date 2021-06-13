@@ -7,9 +7,6 @@ result = []
 def dfs(start, finish, visit):
 
     if start == finish:
-        # for i in range(len(visit)):
-        #     if visit[i] == True:
-        #         result.append(i)
         result.append(start)
         return True
 

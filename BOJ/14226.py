@@ -35,11 +35,11 @@ while q:
     if display + emo <= 1000:
         q.append((display + emo, emo, time + 1))
         
-    
     # 아모티콘하나 지우기
     if display > 0 :
         q.append((display - 1, emo, time + 1))
         
     if visit[display] > time + 1:
         visit[display] = time + 1
+        
 print(time)
