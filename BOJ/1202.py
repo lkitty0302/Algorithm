@@ -1,7 +1,6 @@
 import sys
 import heapq
 
-
 input = sys.stdin.readline
 
 n, k = map(int, input().split())
@@ -33,8 +32,6 @@ for i in bag:
             break
         
         heapq.heappush(mw, (-tv, tm))
-
-    
 
     if len(mw) > 0:
         maxv, maxw = heapq.heappop(mw)
