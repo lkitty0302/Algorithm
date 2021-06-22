@@ -14,14 +14,12 @@ idx = 0
 v = arr[0]
 
 for i in range(N):
-    # print(i)
     if v > arr[i]:
         idx = i
         v = arr[i]
     else:
         heapq.heappush(q, (arr[i], i))
-
-    # print(q)
+        
     n = i - L + 1
 
     if n <= idx:
@@ -29,10 +27,9 @@ for i in range(N):
     else:
         while True:
             v, idx = heapq.heappop(q)
-            # print(q)
             if idx >= n:
                 break
         result.append(v)
-    # print(result)
+
 print(*result)
     
