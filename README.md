@@ -48,6 +48,7 @@
  ----- | ------- | ------- | -----
  2629 | [양팔저울](https://www.acmicpc.net/problem/2629) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2629.py) | 배낭문제, DP
 2665 | [가장 높은 탑쌓기](https://www.acmicpc.net/problem/2655) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2665.py) | 정렬, DP
+13302| [리조트]() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/13302.py) | DP, DFS
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
