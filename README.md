@@ -65,6 +65,7 @@
 18112 | [이진수 게임](https://www.acmicpc.net/problem/18112) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/18112.py) | BFS, 비트마스킹
 2668 | [숫자고르기](https://www.acmicpc.net/problem/2668) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2668.py) | DFS
 2623 | [음악프로그램](https://www.acmicpc.net/problem/2623) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2623.py) | 그래프, 위상정렬
+2239 | [스도쿠](https://www.acmicpc.net/problem/2239) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2239.py) | 백트래킹
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
  
