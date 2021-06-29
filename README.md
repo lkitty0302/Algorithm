@@ -94,6 +94,7 @@
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
 10986 | [나머지 합](https://www.acmicpc.net/problem/10986) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/10986.py) | 누적합
+10800 | [컬러볼](https://www.acmicpc.net/problem/10800) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/10800.py) | 정렬, 누적합
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
