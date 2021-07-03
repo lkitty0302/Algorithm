@@ -34,7 +34,6 @@ for t in range(T):
         a, b, s = map(int, input().split())
         graph[b].append((s, a))
 
-
     result = dijkstra(c)
 
     sum = 0

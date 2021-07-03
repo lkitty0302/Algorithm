@@ -1,5 +1,5 @@
 # 알고리즘
-<!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
+<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
 ### 구현, 완전탐색
@@ -9,7 +9,8 @@
  ----- | ------- | ------- | -----
 1052 | [물병](https://www.acmicpc.net/problem/1052) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1052.py) | 구현, 비트마스킹, 그리디 알고리즘
 16637 | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/16637.py) | 브루트포스 알고리즘
-<!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
+20058 | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/20058.py) | 구현, 그래프(DFS/DFS)
+<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
 ### 문자열
@@ -17,7 +18,8 @@
 
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
-<!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
+1593 | [문자 해독](https://www.acmicpc.net/problem/1593) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1593.py) | 슬라이딩 윈도우
+<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
  
 ### Sort
@@ -26,7 +28,7 @@
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
 5430  | [Integer Lists(AC)](https://www.acmicpc.net/problem/5430) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/5430.py) | 문자열, deque
-<!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
+<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
 
@@ -37,7 +39,7 @@
  ----- | ------- | ------- | -----
 1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1202.py) | 정렬, 우선순위큐, 그리디알고리즘
 11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/11003.py) | 우선순위큐
-<!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
+<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
 
@@ -49,7 +51,7 @@
  2629 | [양팔저울](https://www.acmicpc.net/problem/2629) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2629.py) | 배낭문제, DP
 2665 | [가장 높은 탑쌓기](https://www.acmicpc.net/problem/2655) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2665.py) | 정렬, DP
 13302| [리조트]() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/13302.py) | DP, DFS
-<!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
+<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
 
@@ -66,7 +68,7 @@
 2668 | [숫자고르기](https://www.acmicpc.net/problem/2668) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2668.py) | DFS
 2623 | [음악프로그램](https://www.acmicpc.net/problem/2623) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2623.py) | 그래프, 위상정렬
 2239 | [스도쿠](https://www.acmicpc.net/problem/2239) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2239.py) | 백트래킹
-<!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
+<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
  
  ### 최단거리
@@ -75,7 +77,8 @@
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
 1504 | [특정한 최단거리](https://www.acmicpc.net/problem/1504) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1504.py) | 다익스트라
-<!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
+10282 | [해킹](https://www.acmicpc.net/problem/10282) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/10282.py) | 다익스트라
+<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
  ### Two Pointer
@@ -85,7 +88,7 @@
  ----- | ------- | ------- | -----
 20366 | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/20366.py) | 투포인터
 15961 | [회전초밥](https://www.acmicpc.net/problem/15961) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/15961.py) | 슬라이딩 윈도우, 투포인터
-<!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
+<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
 ### 누적합
@@ -95,6 +98,6 @@
  ----- | ------- | ------- | -----
 10986 | [나머지 합](https://www.acmicpc.net/problem/10986) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/10986.py) | 누적합
 10800 | [컬러볼](https://www.acmicpc.net/problem/10800) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/10800.py) | 정렬, 누적합
-<!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
+<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
