@@ -1,4 +1,4 @@
-# 알고리즘
+# 코딩테스트 대비 알고리즘 문제 풀이
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
