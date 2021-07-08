@@ -1,4 +1,5 @@
 # 문제를 이해하는데 많은 시간이 걸렸던 문제
+# python에서 배열A = 배열B는 값을 복사하는 것이 아닌 참조로 A값을 수정하면 B값도 함께 수정됨
 import sys
 from collections import deque
 from copy import deepcopy
@@ -15,13 +16,11 @@ def turn(n):
                 for y in range(2**n):
                     tx = i * 2**n
                     ty = j * 2**n
-                    # print(tx + y, ty + 2**n - x - 1 , i * 2**n + x, j * 2**n + y)
                     tmp[tx+y][ty+ 2**n - x - 1] = arr[i * 2**n + x][j *  2**n + y]
     return tmp
 
 def ice_check():
     tmp = deepcopy(arr)
-    # print(tmp)
     for i in range(2**N):
         for j in range(2**N):
             tcnt = 0
@@ -34,7 +33,6 @@ def ice_check():
 
             if tcnt < 3:
                 arr[i][j] = tmp[i][j] - 1
-    # print(tmp)
     return
 
 def bfs(x, y):
@@ -78,9 +76,8 @@ qarr = list(map(int, input().split()))
 for i in range(len(qarr)):
     #90도 회전
     arr = turn(qarr[i])
-    # print(arr)
+    #얼음 감소
     ice_check()
-    # print(arr)
 
 visit = [[False for _ in range(2**N)] for _ in range(2**N)]
 
