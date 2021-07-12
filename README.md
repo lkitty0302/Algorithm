@@ -51,6 +51,7 @@
  2629 | [양팔저울](https://www.acmicpc.net/problem/2629) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2629.py) | 배낭문제, DP
 2665 | [가장 높은 탑쌓기](https://www.acmicpc.net/problem/2655) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2665.py) | 정렬, DP
 13302| [리조트]() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/13302.py) | DP, DFS
+2662 | [기업투자](https://www.acmicpc.net/problem/2662) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2662.py) | DP
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
@@ -103,3 +104,9 @@
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
+### 수학
+- Baekjoon<br>
+
+ 번호   |   문제   |   정답   | 분류
+ ----- | ------- | ------- | -----
+1188 | [음식 평론가](https://www.acmicpc.net/problem/1188) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1188.py) | 누적합
