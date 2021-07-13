@@ -1,3 +1,5 @@
+# 프로그래머스
+# 뉴스 클러스터링
 import sys
 
 def change(str):

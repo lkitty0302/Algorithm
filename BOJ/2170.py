@@ -20,8 +20,6 @@ for i in range(1, N):
             maxx = tmx
 
         result += tmy - maxy
-        maxy = tmy
+        maxy = tmy 
         
-        
-    
 print(result)

@@ -1,3 +1,4 @@
+# 
 import sys
 input = sys.stdin.readline
 
@@ -30,7 +31,7 @@ state = [0 for _ in range(N+1)]
 for i in range(1, N):
     t, a, p = input().split()
 
-     #양
+    #늑대가 있는 경우 -로 저장
     if t == 'W':
         a = int(a) * -1
     

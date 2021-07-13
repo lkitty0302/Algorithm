@@ -39,6 +39,7 @@
  ----- | ------- | ------- | -----
 1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1202.py) | 정렬, 우선순위큐, 그리디알고리즘
 11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/11003.py) | 우선순위큐
+1781 | [컵라면](https://www.acmicpc.net/problem/1781) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1781.py) | 우선순위 큐
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 

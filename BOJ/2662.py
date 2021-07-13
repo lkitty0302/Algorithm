@@ -36,12 +36,3 @@ while x > 0:
 
 result.reverse()
 print(*result)
-
-
-
-
-# 4 2
-# 1 5 1
-# 2 6 5
-# 3 7 9
-# 4 10 15
