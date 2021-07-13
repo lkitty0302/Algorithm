@@ -110,4 +110,4 @@
 
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
-1188 | [음식 평론가](https://www.acmicpc.net/problem/1188) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1188.py) | 누적합
+1188 | [음식 평론가](https://www.acmicpc.net/problem/1188) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1188.py) | 수학
