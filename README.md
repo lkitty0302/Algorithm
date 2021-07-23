@@ -72,7 +72,7 @@
 2239 | [스도쿠](https://www.acmicpc.net/problem/2239) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2239.py) | 백트래킹
 1525 | [퍼즐](https://www.acmicpc.net/problem/1525) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1525.py) | BFS
 3980| [선발명단](https://www.acmicpc.net/problem/3980) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/3980.py) | DFS, 백트래킹
-<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
+1766 | [문제집](https://www.acmicpc.net/problem/1766) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1766.py) | 위상정렬, 우선순위 큐
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
  
  ### 최단거리
