@@ -83,6 +83,7 @@
 1504 | [특정한 최단거리](https://www.acmicpc.net/problem/1504) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1504.py) | 다익스트라
 10282 | [해킹](https://www.acmicpc.net/problem/10282) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/10282.py) | 다익스트라
 2211 | [네트워크 복구](https://www.acmicpc.net/problem/2211) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2211.py) | 다익스트라
+1939 | [중량제한](https://www.acmicpc.net/problem/1939) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1939.py) |
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
