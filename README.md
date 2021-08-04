@@ -84,7 +84,8 @@
 1504 | [특정한 최단거리](https://www.acmicpc.net/problem/1504) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1504.py) | 다익스트라
 10282 | [해킹](https://www.acmicpc.net/problem/10282) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/10282.py) | 다익스트라
 2211 | [네트워크 복구](https://www.acmicpc.net/problem/2211) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2211.py) | 다익스트라
-1939 | [중량제한](https://www.acmicpc.net/problem/1939) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1939.py) |
+1939 | [중량제한](https://www.acmicpc.net/problem/1939) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1939.py) | 다익스트라
+10159 | [저울](https://www.acmicpc.net/problem/10159) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/10159.py) | 플로이드 와샬
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
@@ -121,5 +122,6 @@
   ----- | ------- | ------- | -----
 20040| [사이클게임](https://www.acmicpc.net/problem/20040) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/20040.py) | 분리집합, 자료구조
 1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1717.py) | 자료구조, 분리집합
+4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/4195.py) | 자료구조, 분리집합
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
