@@ -115,6 +115,7 @@
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
 1188 | [음식 평론가](https://www.acmicpc.net/problem/1188) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1188.py) | 수학
+1027 | [고층 건물](https://www.acmicpc.net/problem/1027) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1027.py) | 수학, 브루트포스
 
 ### union-find
 - Baekjoon<br>
