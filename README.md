@@ -96,6 +96,7 @@
  ----- | ------- | ------- | -----
 20366 | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/20366.py) | 투포인터
 15961 | [회전초밥](https://www.acmicpc.net/problem/15961) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/15961.py) | 슬라이딩 윈도우, 투포인터
+1484 | [다이어트](https://www.acmicpc.net/problem/1484) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1484.py) | 투포인터
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
