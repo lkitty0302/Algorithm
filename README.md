@@ -130,3 +130,12 @@
 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/4195.py) | 자료구조, 분리집합
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
+
+## 이분탐색
+- Baekjoon<br>
+
+ 번호   |   문제   |   정답   | 분류
+ ----- | ------- | ------- | -----
+ 16434 | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/16434_a.py) | 이분탐색
+<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
+<!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
