@@ -123,8 +123,9 @@
 
 ### union-find
 - Baekjoon<br>
+
  번호   |   문제   |   정답   | 분류
-  ----- | ------- | ------- | -----
+ ----- | ------- | ------- | -----
 20040| [사이클게임](https://www.acmicpc.net/problem/20040) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/20040.py) | 분리집합, 자료구조
 1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1717.py) | 자료구조, 분리집합
 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/4195.py) | 자료구조, 분리집합
