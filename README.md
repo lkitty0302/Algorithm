@@ -20,6 +20,7 @@
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
 1593 | [문자 해독](https://www.acmicpc.net/problem/1593) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1593.py) | 슬라이딩 윈도우
+1013 | [Contact](https://www.acmicpc.net/problem/1013) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1013.py) | 문자열, 정규표현식, 오토마타 상태그래프
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
  
@@ -38,10 +39,11 @@
 
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
-1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1202.py) | 정렬, 우선순위큐, 그리디알고리즘
-11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/11003.py) | 우선순위큐
+1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1202.py) | 정렬, 우선순위 큐, 그리디알고리즘
+11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/11003.py) | 우선순위 큐
 1781 | [컵라면](https://www.acmicpc.net/problem/1781) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1781.py) | 우선순위 큐
 13904 | [과제](https://www.acmicpc.net/problem/13904) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/13904.py) | 우선순위 큐
+1461 | [도서관](https://www.acmicpc.net/problem/1461) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1461.py) | 우선순위 큐
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
