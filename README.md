@@ -53,10 +53,11 @@
 
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
- 2629 | [양팔저울](https://www.acmicpc.net/problem/2629) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2629.py) | 배낭문제, DP
+2629 | [양팔저울](https://www.acmicpc.net/problem/2629) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2629.py) | 배낭문제, DP
 2665 | [가장 높은 탑쌓기](https://www.acmicpc.net/problem/2655) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2665.py) | 정렬, DP
-13302| [리조트]() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/13302.py) | DP, DFS
+13302 | [리조트]() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/13302.py) | DP, DFS
 2662 | [기업투자](https://www.acmicpc.net/problem/2662) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2662.py) | DP
+1727 | [커플만들기](https://www.acmicpc.net/problem/1727) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1727.py) | DP
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
@@ -77,6 +78,8 @@
 1525 | [퍼즐](https://www.acmicpc.net/problem/1525) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1525.py) | BFS
 3980| [선발명단](https://www.acmicpc.net/problem/3980) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/3980.py) | DFS, 백트래킹
 1766 | [문제집](https://www.acmicpc.net/problem/1766) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1766.py) | 위상정렬, 우선순위 큐
+2178 | [미로탐색](https://www.acmicpc.net/problem/2178) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2178.py) | BFS
+<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
  
  ### 최단거리
