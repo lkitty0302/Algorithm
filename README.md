@@ -58,6 +58,7 @@
 13302 | [리조트]() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/13302.py) | DP, DFS
 2662 | [기업투자](https://www.acmicpc.net/problem/2662) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2662.py) | DP
 1727 | [커플만들기](https://www.acmicpc.net/problem/1727) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1727.py) | DP
+2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2156.py) | DP
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
