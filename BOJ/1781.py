@@ -23,7 +23,6 @@ while deadline > 0:
     while dq:
         d, r, idx = heapq.heappop(dq)
         if deadline > -d:
-            #안되는 경우
             heapq.heappush(dq, (d, r, idx))
             break
         heapq.heappush(rq, (-r, -d, idx))
