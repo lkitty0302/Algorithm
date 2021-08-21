@@ -80,6 +80,7 @@
 3980| [선발명단](https://www.acmicpc.net/problem/3980) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/3980.py) | DFS, 백트래킹
 1766 | [문제집](https://www.acmicpc.net/problem/1766) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1766.py) | 위상정렬, 우선순위 큐
 2178 | [미로탐색](https://www.acmicpc.net/problem/2178) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2178.py) | BFS
+1600 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1600.py) | BFS
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
  
