@@ -30,6 +30,7 @@
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
 5430  | [Integer Lists(AC)](https://www.acmicpc.net/problem/5430) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/5430.py) | 문자열, deque
+11508 | [2+1 세일](https://www.acmicpc.net/problem/11508) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/11508.py) | 정렬
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
@@ -81,6 +82,8 @@
 1766 | [문제집](https://www.acmicpc.net/problem/1766) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1766.py) | 위상정렬, 우선순위 큐
 2178 | [미로탐색](https://www.acmicpc.net/problem/2178) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2178.py) | BFS
 1600 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1600.py) | BFS
+16953 | [A -> B](https://www.acmicpc.net/problem/16953) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/16953.py) | BFS
+2234 | [성벽](https://www.acmicpc.net/problem/2234) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2234.py) |
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
  
