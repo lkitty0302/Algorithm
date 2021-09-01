@@ -61,6 +61,7 @@
 1727 | [커플만들기](https://www.acmicpc.net/problem/1727) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1727.py) | DP
 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2156.py) | DP
 5624 | [좋은 수](https://www.acmicpc.net/problem/5624) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/5624.py) | DP
+1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1932.py) | DP
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
