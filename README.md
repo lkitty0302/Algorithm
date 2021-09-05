@@ -85,7 +85,8 @@
 2178 | [미로탐색](https://www.acmicpc.net/problem/2178) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2178.py) | BFS
 1600 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1600.py) | BFS
 16953 | [A -> B](https://www.acmicpc.net/problem/16953) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/16953.py) | BFS
-2234 | [성벽](https://www.acmicpc.net/problem/2234) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2234.py) |
+2234 | [성벽](https://www.acmicpc.net/problem/2234) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2234.py) | BFS
+9470 | [Strahler 순서](https://www.acmicpc.net/problem/9470) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/9470.py) | 위상정렬
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
  
