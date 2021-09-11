@@ -131,6 +131,7 @@
  ----- | ------- | ------- | -----
 1188 | [음식 평론가](https://www.acmicpc.net/problem/1188) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1188.py) | 수학
 1027 | [고층 건물](https://www.acmicpc.net/problem/1027) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1027.py) | 수학, 브루트포스
+1111 | [IQ Test](https://www.acmicpc.net/problem/1111) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1111.py)
 
 ### union-find
 - Baekjoon<br>
@@ -140,6 +141,7 @@
 20040| [사이클게임](https://www.acmicpc.net/problem/20040) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/20040.py) | 분리집합, 자료구조
 1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1717.py) | 자료구조, 분리집합
 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/4195.py) | 자료구조, 분리집합
+11085 | [군사 이동](https://www.acmicpc.net/problem/11085) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/11085.py) | 분리집합
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 

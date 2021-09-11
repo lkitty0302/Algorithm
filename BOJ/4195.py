@@ -19,8 +19,6 @@ def union(a, b):
         table[a] = b
         result[b] += result[a]
         result[a] = 0
-    # print(table)
-    # print("a", a, "b", b)
     return result[b]
 
 def find(num):
