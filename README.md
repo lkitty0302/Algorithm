@@ -12,6 +12,7 @@
 20058 | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/20058.py) | 구현, 그래프(DFS/DFS)
 16434 | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/16434.py) | 구현
 2879 | [코딩은 예쁘게](https://www.acmicpc.net/problem/2879) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2879.py) | 그리디
+17143 | [낚시왕](https://www.acmicpc.net/problem/17143) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/17143.py) |
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
@@ -46,6 +47,7 @@
 1781 | [컵라면](https://www.acmicpc.net/problem/1781) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1781.py) | 우선순위 큐
 13904 | [과제](https://www.acmicpc.net/problem/13904) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/13904.py) | 우선순위 큐
 1461 | [도서관](https://www.acmicpc.net/problem/1461) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1461.py) | 우선순위 큐
+2109 | [순회강연](https://www.acmicpc.net/problem/2109) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2109.py) | 우선순위 큐
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 
 
@@ -131,7 +133,9 @@
  ----- | ------- | ------- | -----
 1188 | [음식 평론가](https://www.acmicpc.net/problem/1188) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1188.py) | 수학
 1027 | [고층 건물](https://www.acmicpc.net/problem/1027) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1027.py) | 수학, 브루트포스
-1111 | [IQ Test](https://www.acmicpc.net/problem/1111) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1111.py)
+1111 | [IQ Test](https://www.acmicpc.net/problem/1111) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1111.py) | 수학, 브루트포스, 구현
+2381| [최대 거리](https://www.acmicpc.net/problem/2381) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2381.py) | 수학
+<!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 
 ### union-find
 - Baekjoon<br>
