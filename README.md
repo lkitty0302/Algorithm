@@ -23,6 +23,7 @@
  ----- | ------- | ------- | -----
 1593 | [문자 해독](https://www.acmicpc.net/problem/1593) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1593.py) | 슬라이딩 윈도우
 1013 | [Contact](https://www.acmicpc.net/problem/1013) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1013.py) | 문자열, 정규표현식, 오토마타 상태그래프
+9935 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/9935.py) | 문자열, 스택
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
  
