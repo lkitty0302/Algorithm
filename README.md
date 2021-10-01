@@ -12,7 +12,8 @@
 20058 | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/20058.py) | 구현, 그래프(DFS/DFS)
 16434 | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/16434.py) | 구현
 2879 | [코딩은 예쁘게](https://www.acmicpc.net/problem/2879) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2879.py) | 그리디
-17143 | [낚시왕](https://www.acmicpc.net/problem/17143) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/17143.py) |
+17143 | [낚시왕](https://www.acmicpc.net/problem/17143) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/17143.py) | 구현
+1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1018.py) | 구현, 누적합
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
@@ -90,6 +91,7 @@
 16953 | [A -> B](https://www.acmicpc.net/problem/16953) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/16953.py) | BFS
 2234 | [성벽](https://www.acmicpc.net/problem/2234) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2234.py) | BFS
 9470 | [Strahler 순서](https://www.acmicpc.net/problem/9470) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/9470.py) | 위상정렬
+16929 | [Two Dots](https://www.acmicpc.net/problem/16929) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/16929.py) | DFS
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
  
@@ -103,6 +105,7 @@
 2211 | [네트워크 복구](https://www.acmicpc.net/problem/2211) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2211.py) | 다익스트라
 1939 | [중량제한](https://www.acmicpc.net/problem/1939) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1939.py) | 다익스트라
 10159 | [저울](https://www.acmicpc.net/problem/10159) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/10159.py) | 플로이드 와샬
+1445 | [일요일 아침의 데이트](https://www.acmicpc.net/problem/1445) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1445.py) | 다익스트라
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
@@ -114,6 +117,7 @@
 20366 | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/20366.py) | 투포인터
 15961 | [회전초밥](https://www.acmicpc.net/problem/15961) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/15961.py) | 슬라이딩 윈도우, 투포인터
 1484 | [다이어트](https://www.acmicpc.net/problem/1484) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1484.py) | 투포인터
+2470 | [두 용액](https://www.acmicpc.net/problem/2470) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2470.py) | 투포인터, 이분탐색
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
@@ -157,5 +161,6 @@
  ----- | ------- | ------- | -----
  16434 | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/16434_a.py) | 이분탐색
 13397 | [구간 나누기2](https://www.acmicpc.net/problem/13397) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/13397.py) | 이분탐색
+19845 | [넴모넴모 2020](https://www.acmicpc.net/problem/19845) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/19845.py) | 이분탐색
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
