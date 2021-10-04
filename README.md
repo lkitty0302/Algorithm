@@ -14,6 +14,7 @@
 2879 | [코딩은 예쁘게](https://www.acmicpc.net/problem/2879) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2879.py) | 그리디
 17143 | [낚시왕](https://www.acmicpc.net/problem/17143) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/17143.py) | 구현
 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1018.py) | 구현, 누적합
+9576 | [책 나눠주기](https://www.acmicpc.net/problem/9576) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/9676.py) | 그리디 알고리즘
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
@@ -118,6 +119,7 @@
 15961 | [회전초밥](https://www.acmicpc.net/problem/15961) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/15961.py) | 슬라이딩 윈도우, 투포인터
 1484 | [다이어트](https://www.acmicpc.net/problem/1484) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1484.py) | 투포인터
 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2470.py) | 투포인터, 이분탐색
+1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1644.py) | 투포인터, 에라토스테네스의 체, 누적합
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
@@ -162,5 +164,6 @@
  16434 | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/16434_a.py) | 이분탐색
 13397 | [구간 나누기2](https://www.acmicpc.net/problem/13397) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/13397.py) | 이분탐색
 19845 | [넴모넴모 2020](https://www.acmicpc.net/problem/19845) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/19845.py) | 이분탐색
+
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
