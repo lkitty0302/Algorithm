@@ -107,6 +107,7 @@
 1939 | [중량제한](https://www.acmicpc.net/problem/1939) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1939.py) | 다익스트라
 10159 | [저울](https://www.acmicpc.net/problem/10159) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/10159.py) | 플로이드 와샬
 1445 | [일요일 아침의 데이트](https://www.acmicpc.net/problem/1445) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1445.py) | 다익스트라
+1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1012.py) | BFS, DFS
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
