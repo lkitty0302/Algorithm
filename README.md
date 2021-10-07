@@ -15,6 +15,7 @@
 17143 | [낚시왕](https://www.acmicpc.net/problem/17143) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/17143.py) | 구현
 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1018.py) | 구현, 누적합
 9576 | [책 나눠주기](https://www.acmicpc.net/problem/9576) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/9676.py) | 그리디 알고리즘
+1083 | [소트](https://www.acmicpc.net/problem/1083) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1083.py) | 그리디 알고리즘
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
@@ -36,6 +37,7 @@
  ----- | ------- | ------- | -----
 5430  | [Integer Lists(AC)](https://www.acmicpc.net/problem/5430) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/5430.py) | 문자열, deque
 11508 | [2+1 세일](https://www.acmicpc.net/problem/11508) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/11508.py) | 정렬
+10989 | [수 정렬하기3](https://www.acmicpc.net/problem/10989) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/10989.py) | 계수정렬
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
@@ -67,6 +69,7 @@
 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2156.py) | DP
 5624 | [좋은 수](https://www.acmicpc.net/problem/5624) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/5624.py) | DP
 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1932.py) | DP
+2253 | [점프](https://www.acmicpc.net/problem/2253) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2253.py) | DP
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
