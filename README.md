@@ -16,6 +16,7 @@
 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1018.py) | 구현, 누적합
 9576 | [책 나눠주기](https://www.acmicpc.net/problem/9576) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/9676.py) | 그리디 알고리즘
 1083 | [소트](https://www.acmicpc.net/problem/1083) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1083.py) | 그리디 알고리즘
+1107 | [리모컨](https://www.acmicpc.net/problem/1107) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1107.py) | 완전탐색
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
 
@@ -96,6 +97,7 @@
 2234 | [성벽](https://www.acmicpc.net/problem/2234) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2234.py) | BFS
 9470 | [Strahler 순서](https://www.acmicpc.net/problem/9470) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/9470.py) | 위상정렬
 16929 | [Two Dots](https://www.acmicpc.net/problem/16929) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/16929.py) | DFS
+1260 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1260.py) | DFS, BFS
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 <!-- | []() | [정답](https://github.com/lkitty0302/Algorithm/blob/main/programmers/.py) | -->
  
