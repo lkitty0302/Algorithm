@@ -54,6 +54,7 @@
 13904 | [과제](https://www.acmicpc.net/problem/13904) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/13904.py) | 우선순위 큐
 1461 | [도서관](https://www.acmicpc.net/problem/1461) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1461.py) | 우선순위 큐
 2109 | [순회강연](https://www.acmicpc.net/problem/2109) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/2109.py) | 우선순위 큐
+1374 | [강의실](https://www.acmicpc.net/problem/1374) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/1374.py) | 우선순위 큐
 <!-- | [](https://www.acmicpc.net/problem/) | [정답](https://github.com/lkitty0302/Algorithm/blob/main/BOJ/.py) | -->
 
 
